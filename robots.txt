@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ninsiati.github.io/sitemap.html.gz
+Sitemap: https://ninsiati.github.io/app/sitemap.html.gz
+Sitemap: https://ninsiati.github.io/assets/sitemap.html.gz
+Sitemap: https://ninsiati.github.io/css/sitemap.html.gz
+Sitemap: https://ninsiati.github.io/includes/sitemap.html.gz
+Sitemap: https://ninsiati.github.io/item/sitemap.html.gz
+Sitemap: https://ninsiati.github.io/src/sitemap.html.gz
